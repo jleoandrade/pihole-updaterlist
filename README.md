@@ -2,14 +2,12 @@
 
 > Actually this project is not 'yet another'. I tried to improve what other projects missed. Also added an auto updater.
 
- [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) [![Twitter Follow](https://img.shields.io/twitter/follow/javanrasokat.svg?style=social&label=Follow)](https://twitter.com/intent/follow?screen_name=javanrasokat)
-
 **Supports the new Pi-hole 5 and above.**
 
 ## Quickstart
 ```
 cd ~
-git clone --depth=1 https://github.com/JavanXD/ya-pihole-list.git ya-pihole-list
+git clone --depth=1 https://github.com/jleoandrade/pihole-updaterlist.git update-pihole-list
 cd ya-pihole-list
 sudo chmod a+x adlists-updater.sh
 sudo sh adlists-updater.sh
