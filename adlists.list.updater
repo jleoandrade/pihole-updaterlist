@@ -54,3 +54,10 @@ https://raw.githubusercontent.com/chadmayfield/my-pihole-blocklists/master/lists
 https://raw.githubusercontent.com/anudeepND/blacklist/master/facebook.txt
 #YoutubeList
 https://raw.githubusercontent.com/jleoandrade/pihole-updaterlist/main/youtubeblocklist
+#Orthrus-BlockList
+https://raw.githubusercontent.com/marcusminus/Orthrus-BlockList/master/hosts.txt
+https://raw.githubusercontent.com/marcusminus/Orthrus-BlockList/master/domains.txt
+https://raw.githubusercontent.com/marcusminus/Orthrus-BlockList/master/blocklist.txt
+#LaulinBlockList
+https://raw.githubusercontent.com/laulin/pihole-blacklist/master/top_1000000.txt
+https://raw.githubusercontent.com/laulin/pihole-blacklist/master/blacklist.txt
